@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "calling",
+  "base_artist": "小玉ひかり",
+  "createdAt": "2026-03-18T13:15:14.919226Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Valhalla Calling (feat. Peyton Parrish) [Duet Version]",
+      "artist": "Miracle Of Sound",
+      "has_synced": true,
+      "path": "select/01_Valhalla_Calling_(feat._Peyton_Parrish)_[Duet_Version]_Miracle_Of_Sound.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Valhalla Calling (feat. Peyton Parrish) (Duet Version)",
+      "artist": "Miracle Of Sound",
+      "has_synced": true,
+      "path": "select/02_Valhalla_Calling_(feat._Peyton_Parrish)_(Duet_Version)_Miracle_Of_Sound.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cold Beer Calling My Name (Live)",
+      "artist": "Jameson Rodgers",
+      "has_synced": false,
+      "path": "select/03_Cold_Beer_Calling_My_Name_(Live)_Jameson_Rodgers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "God Is Calling Me Back Home",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_God_Is_Calling_Me_Back_Home_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "God Is Calling Me Back Home",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/05_God_Is_Calling_Me_Back_Home_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Someone Else Calling You Baby",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/06_Someone_Else_Calling_You_Baby_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lost Boys Calling",
+      "artist": "Ennio Morricone",
+      "has_synced": false,
+      "path": "select/07_Lost_Boys_Calling_Ennio_Morricone.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hamburg Calling",
+      "artist": "Fettes Brot",
+      "has_synced": true,
+      "path": "select/08_Hamburg_Calling_Fettes_Brot.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hamburg Calling (live)",
+      "artist": "Fettes Brot",
+      "has_synced": false,
+      "path": "select/09_Hamburg_Calling_(live)_Fettes_Brot.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Valhalla Calling",
+      "artist": "Peyton Parrish",
+      "has_synced": true,
+      "path": "select/10_Valhalla_Calling_Peyton_Parrish.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Calling Your Name",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/11_Calling_Your_Name_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Calling My Phone",
+      "artist": "Lil Tjay feat. 6LACK",
+      "has_synced": true,
+      "path": "select/12_Calling_My_Phone_Lil_Tjay_feat._6LACK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Calling My Phone",
+      "artist": "Lil Tjay & 6LACK",
+      "has_synced": true,
+      "path": "select/13_Calling_My_Phone_Lil_Tjay_&_6LACK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Somebody's Calling Me",
+      "artist": "LCD Soundsystem",
+      "has_synced": true,
+      "path": "select/14_Somebody's_Calling_Me_LCD_Soundsystem.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Calling All Skeletons (Live)",
+      "artist": "Alkaline Trio",
+      "has_synced": false,
+      "path": "select/15_Calling_All_Skeletons_(Live)_Alkaline_Trio.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Calling All the Heroes",
+      "artist": "It Bites",
+      "has_synced": true,
+      "path": "select/16_Calling_All_the_Heroes_It_Bites.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Calling Cards",
+      "artist": "Madness",
+      "has_synced": true,
+      "path": "select/17_Calling_Cards_Madness.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "calling (feat. masa)",
+      "artist": "小玉ひかり, masa",
+      "has_synced": false,
+      "path": "select/pl_01_calling_(feat._masa)_小玉ひかり,_masa.txt"
+    }
+  ]
+}
